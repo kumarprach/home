@@ -29,6 +29,13 @@ ol
 {
   list-style-type: upper-roman;
 }
+img
+{
+	border: 2px;
+	border-color: silver;
+  	padding: 10px;
+	margin: 10px
+}
 p.size
 {
 	font-size: 14pt;
